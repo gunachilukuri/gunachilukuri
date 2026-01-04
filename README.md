@@ -12,8 +12,8 @@ Advanced Data Analytics, Multi-Agent Architectures (CrewAI), Applied Machine Lea
 Data analytics projects, AI-assisted analytical pipelines, dashboard automation, and practical applications of LLMs in business and data workflows.
 
 📫 How to reach me  
-- LinkedIn: www.linkedin.com/in/gunachilukuri  
-- Email: gunachilukuri3@gmail.com  
+- [LinkedIn](www.linkedin.com/in/gunachilukuri)  
+- [Email](gunachilukuri3@gmail.com)  
 
 🚀 On this GitHub, you’ll find:
 - Data analysis and automation projects  
